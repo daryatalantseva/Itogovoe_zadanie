@@ -1,0 +1,15 @@
+D:\Education\Itogovoe_zadanie\bin\Debug\net6.0\Itogovoe_zadanie.exe
+D:\Education\Itogovoe_zadanie\bin\Debug\net6.0\Itogovoe_zadanie.deps.json
+D:\Education\Itogovoe_zadanie\bin\Debug\net6.0\Itogovoe_zadanie.runtimeconfig.json
+D:\Education\Itogovoe_zadanie\bin\Debug\net6.0\Itogovoe_zadanie.dll
+D:\Education\Itogovoe_zadanie\bin\Debug\net6.0\Itogovoe_zadanie.pdb
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\Itogovoe_zadanie.csproj.AssemblyReference.cache
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\Itogovoe_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\Itogovoe_zadanie.AssemblyInfoInputs.cache
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\Itogovoe_zadanie.AssemblyInfo.cs
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\Itogovoe_zadanie.csproj.CoreCompileInputs.cache
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\Itogovoe_zadanie.dll
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\refint\Itogovoe_zadanie.dll
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\Itogovoe_zadanie.pdb
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\Itogovoe_zadanie.genruntimeconfig.cache
+D:\Education\Itogovoe_zadanie\obj\Debug\net6.0\ref\Itogovoe_zadanie.dll
